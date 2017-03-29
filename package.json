@@ -1,0 +1,15 @@
+{
+  "name": "test-server",
+  "version": "0.0.1",
+  "description": "Tests for homework 1.1 «EcmaScript 2015 в Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "VK",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
